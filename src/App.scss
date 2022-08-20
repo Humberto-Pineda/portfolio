@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #b1d5f2;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: rgb(90, 198, 215);
 	overflow: hidden;
 }
 
@@ -156,7 +156,7 @@ header h1 {
 }
 
 .foto div:after {
-	color: #333;
+	color: rgb(69, 174, 132);
 	font-size: 25px;
 	content: attr(title);
 	position: relative;
@@ -188,7 +188,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #adbaaf;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -231,7 +231,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #8ebadd;
 }
 
 .experience-icon {
@@ -276,7 +276,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: rgb(156, 217, 243);
 }
 
 .bars {
@@ -353,7 +353,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #30acef;
 	padding-bottom: 5%;
 }
 
